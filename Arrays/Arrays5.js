@@ -12,5 +12,5 @@ let minInArray = function(array) {
     }
     
     return min;
-}
+};
 
